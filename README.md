@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @brew-guy
+- 👋 Hi, I’m Jes
 - 👀 I’m a pharmacist with an interest in tech, automation, coding and learning new stuff
 - 🌱 I’m currently learning node.js, javascript and React
 - 💞️ I’m looking to have more tech in my work-life
