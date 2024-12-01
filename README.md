@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jes
-- 🌱 I’m a pharmacist gone analyst with an interest in tech, automation, coding and continued learning
+👋 Hi, I’m Jes
+🌱 I’m a pharmacist with an interest in tech, automation, coding and continued learning
 
 <!---
 brew-guy/brew-guy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
