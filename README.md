@@ -1,8 +1,5 @@
 - 👋 Hi, I’m Jes
-- 👀 I’m a pharmacist with an interest in tech, automation, coding and learning new stuff
-- 🌱 I’m currently learning node.js, javascript and React
-- 💞️ I’m looking to have more tech in my work-life
-- 📫 How to reach me ...
+- 🌱 I’m a pharmacist gone analyst with an interest in tech, automation, coding and continued learning
 
 <!---
 brew-guy/brew-guy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
